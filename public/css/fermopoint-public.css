@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ 
+#fermopoint_input_shipping_field {border-top:2px solid #ccc; border-bottom:2px solid #ccc;  padding:10px; text-align:center;} 
+ 
+#fermopoint_input_shipping{text-align:center;font-size:16px; background-color:transparent; font-weight:bold;resize: none; border:0; height:200px}
